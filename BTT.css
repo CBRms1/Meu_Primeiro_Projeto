@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0 20px;
+}
+
+.fieldset{
+    margin: 40px 200px;
+    border-color: darkgreen;
+    font-size: 20px;
+}
+
+.title{
+    text-align: center;
+    margin: 20px;
+    font-size: 70px;
+    color: red;
+}
+
+.div1{
+    display: flex;
+    flex-direction: row;
+}
+
+.E{
+    padding: 0;
+}

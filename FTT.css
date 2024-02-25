@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    margin: 0 20px 0 0;
+    color: red;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.pagina{
+    padding: 0 0 20px 20px;
+    margin: 40px 200px;
+    font-size: 20px;
+}
+
+.div1{
+    display: flex;
+    flex-direction: row;
+    color:maroon;
+}
+
+.image1{
+    width: 350px;
+}
+
+.div2{
+    color: maroon;
+}
+
+.div3{
+    color: maroon;
+}
+
+.div4{
+    color: maroon;
+}
+
+.div5{
+    color: maroon;
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Links{
+    background-color: black;
+    margin: 10px 200px;
+    text-align: start;
+    font-size: 35px;
+    padding: 0 20px;
+}
+
+.Header{
+    margin: 30px 10px 0 0;
+    text-align: center;
+    font-size: 50px;
+    color: darkslategrey;
+}
